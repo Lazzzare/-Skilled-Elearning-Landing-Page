@@ -17,5 +17,5 @@
 ## Author
 
 - Github [Lazzzare](https://github.com/Lazzzare).
-- Linkeding [Lazare Chkhartishvili](https://www.linkedin.com/in/lazare-chkhartishvili-0a6434235/).
+- Linkedin [Lazare Chkhartishvili](https://www.linkedin.com/in/lazare-chkhartishvili-0a6434235/).
   
