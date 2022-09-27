@@ -3,8 +3,8 @@
 
 ## Links  
 
-- Solution URL: [GitHub Code] (https://github.com/Lazzzare/-Skilled-Elearning-Landing-Page).
-- Live Site URL: [GitHub Live] (...).
+- Solution URL: [GitHub Code](https://github.com/Lazzzare/-Skilled-Elearning-Landing-Page).
+- Live Site URL: [GitHub Live](https://lazzzare.github.io/-Skilled-Elearning-Landing-Page/).
 
 ## Built With
 
@@ -16,6 +16,6 @@
 
 ## Author
 
-- Github [Lazzzare] (https://github.com/Lazzzare).
-- Linkeding [Lazare Chkhartishvili] (https://www.linkedin.com/in/lazare-chkhartishvili-0a6434235/).
+- Github [Lazzzare](https://github.com/Lazzzare).
+- Linkeding [Lazare Chkhartishvili](https://www.linkedin.com/in/lazare-chkhartishvili-0a6434235/).
   
